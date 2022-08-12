@@ -1,3 +1,3 @@
 # challenge_01
-Kółko i krzyżyk
+Kółko i krzyżyk.
 From Kodilla newsletter.
